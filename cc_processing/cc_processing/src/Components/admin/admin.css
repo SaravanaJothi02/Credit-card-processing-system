@@ -1,0 +1,28 @@
+#admin{
+    filter: drop-shadow(15px 31px 13px #000);
+    flex:1 1 42rem;
+    padding-top: 10rem;
+    margin-left:50px;
+    height:50rem;
+    
+}
+
+.btnadd{
+    float:right;
+    margin-top:100px ;
+    margin-right:300px;
+    text-align: center;  
+}
+button{
+    border:none;
+    font-weight: bold;
+    font-size: 2rem;
+}
+button:hover{
+    box-shadow: inset 2px 2px 2px red, inset -2px -2px -2px red;
+    background-color:#1f5156;
+    color:#179b81;
+}
+
+
+
